@@ -92,6 +92,6 @@ A classic Snake game implemented using **Raylib**. This project showcases object
 
 ## Credits
 
-- Developed by: **[Raghav]**
+- Developed by: [Raghav](https://github.com/raghavtandon13)
 - Built with: [Raylib](https://www.raylib.com/)
 
