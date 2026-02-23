@@ -4,6 +4,10 @@ A classic Snake game implemented using **Raylib**. This project showcases object
 
 ---
 
+![Screenshot](1.png)
+
+---
+
 ## Features
 
 - **Smooth Gameplay**: Consistent frame rate and interval-based movement.
@@ -70,13 +74,13 @@ A classic Snake game implemented using **Raylib**. This project showcases object
 
 ## Controls
 
-| Key          | Action                        |
-|--------------|-------------------------------|
-| **Arrow Up** | Move Snake Up                 |
-| **Arrow Down** | Move Snake Down             |
-| **Arrow Left** | Move Snake Left             |
-| **Arrow Right** | Move Snake Right           |
-| **Space**    | Pause/Resume the game         |
+| Key             | Action                |
+| --------------- | --------------------- |
+| **Arrow Up**    | Move Snake Up         |
+| **Arrow Down**  | Move Snake Down       |
+| **Arrow Left**  | Move Snake Left       |
+| **Arrow Right** | Move Snake Right      |
+| **Space**       | Pause/Resume the game |
 
 ---
 
@@ -94,4 +98,3 @@ A classic Snake game implemented using **Raylib**. This project showcases object
 
 - Developed by: **[Raghav]**
 - Built with: [Raylib](https://www.raylib.com/)
-
