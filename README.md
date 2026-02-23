@@ -1,4 +1,4 @@
-# Snake Game
+# Snake Raylib
 
 A classic Snake game implemented using **Raylib**. This project showcases object-oriented programming, custom textures, and sounds, delivering a fun and polished gaming experience.
 
@@ -43,7 +43,7 @@ A classic Snake game implemented using **Raylib**. This project showcases object
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/raghavtandon13/snake.git
+   git clone https://github.com/raghavtandon13/snake-raylib.git
    ```
 2. Compile the code:
    ```bash
